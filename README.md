@@ -1,2 +1,2 @@
 # Primeira_Lista_de_Exercicios_Py
- Primeira lista de exercícios desenvolvidas em python
+ Primeira lista de exercícios desenvolvidos em python.
