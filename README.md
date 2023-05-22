@@ -1,4 +1,9 @@
-# Primeira_Lista_de_Exercicios_Py
- Primeira lista de exercícios desenvolvidos em python.
- 
- Exercícios inicias:
+# Listas de exercícios feitas em python
+
+Conteúdos:
+Tipos de Variavéis;
+Operadores Aritméticos;
+Operadores Lógicos;
+Estrutura Condicional;
+Estrutura de Repetição;
+Listas;
