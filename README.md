@@ -1,1 +1,1 @@
-# Listas de exercícios feitas em python
+# Listas de exercícios feitos em python
