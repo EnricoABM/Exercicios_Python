@@ -87,4 +87,4 @@ def ex07(num):
         else:
             primo = 0       
     return primo
-print(ex07(21))
+print(ex07(7))
